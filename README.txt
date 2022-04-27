@@ -44,4 +44,4 @@ reglas de negocio y criterios de aceptacion. Dichas pruebas se lanzan de manera 
 
 ## Más informacion
 
-Echo inquietudes comuniquese con Jorge Otálora, jorge.otalora@uptc.edu.co
+Echo inquietudes comuniquese con Fabian Andrey Rodriguez Buitrago fabian.rodriguez05@uptc.edu.co
